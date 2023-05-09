@@ -15,7 +15,7 @@ atexit.register(engine.dispose)
 
 class Add(Base):
 
-    __tablename__ = 'app_ads'
+    __tablename__ = 'app_adv'
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     title = Column(String(100), nullable=False)
