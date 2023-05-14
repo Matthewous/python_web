@@ -1,0 +1,7 @@
+pytest
+aiohttp
+more-itertools
+sqlalchemy
+asyncpg
+requests
+aiopg
